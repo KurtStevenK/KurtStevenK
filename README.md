@@ -28,18 +28,6 @@ I build apps, tools and infrastructure, and I run [Kainzmayer](https://kainzmaye
 
 🟢 **Beaut1fy** is the first app of the Kainzmayer studio to go live. More apps are on the way.
 
-## ⭐ My personal favourites
-
-1. Das Lebenswunder
-2. Beaut1fy
-3. LaneBuddy
-4. Hasky
-5. Matrix Commander
-6. FeatherShot
-7. Calcy
-8. F1nn
-9. Clay
-
 ## 🧰 Open-source projects and tools
 
 | Repository | What it is |
@@ -74,14 +62,26 @@ Private repositories (source not public yet): Lane, Buddy, Beautify, Matrix Comm
 **Security:** IT security, ISMS, PKI and SSL certificate management, zero trust
 **AI:** AI agents, MCP servers, and building tools with AI assistants
 
+## 🎓 AI learning
+
+Studied and practised in depth:
+
+- **LLMs & agentic engineering:** building agents, MCP servers and tool use
+- **Context window engineering:** what to put in, what to leave out, and how to keep long work reliable
+- **AI engineering & AI generalist work:** combining models, tools and workflows across a product
+- **Multimodal AI:** image, audio, code, text and video
+
 ## 📈 Career highlights
 
-- 25+ years in IT, starting in 1996 with IT hardware and networking
-- Head of IT and Data Protection Officer, data centre and IT architecture
-- Head of DevOps, web and software development
+- **Since 1999 in IT**, from system administration and web development to IT leadership
+- **Head of IT & Data Protection Officer** (2014–2022), data centre and IT architecture
+- **Head of DevOps** (2012–2014), web, hardware and software development
 - Built and merged two server rooms into one high-availability data centre during live production
-- Inventory software linked to cash register, accounting and suppliers
+- Inventory software connected to cash register, accounting and suppliers
 - Native iOS and Android app with offline mode and signed PDF reports (passed store review on the first attempt)
+- **Leadership:** chairman of the board of a development non-profit (2022–2024)
+
+**Languages:** German (C2), English (B2), Slovak (A1)
 
 ---
 
