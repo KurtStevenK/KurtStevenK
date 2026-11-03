@@ -74,12 +74,12 @@ Studied and practised in depth:
 ## 📈 Career highlights
 
 - **Since 1999 in IT**, from system administration and web development to IT leadership
-- **Head of IT & Data Protection Officer** (2014–2022), data centre and IT architecture
-- **Head of DevOps** (2012–2014), web, hardware and software development
+- **R&D: Head of IT & Data Protection Officer**, data centre and IT architecture
+- **R&D: Head of DevOps**, web, hardware and software development
 - Built and merged two server rooms into one high-availability data centre during live production
 - Inventory software connected to cash register, accounting and suppliers
-- Native iOS and Android app with offline mode and signed PDF reports (passed store review on the first attempt)
-- **Leadership:** chairman of the board of a development non-profit (2022–2024)
+- Native iOS and Android app with offline mode and signed PDF reports
+- **R&D chairman of the board :** development of a non-profit tech institute (2022–2027)
 
 **Languages:** German (C2), English (B2), Slovak (A1)
 
