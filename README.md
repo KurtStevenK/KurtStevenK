@@ -74,13 +74,13 @@ Studied and practised in depth:
 ## 📈 Career highlights
 
 - **Since 1999 in IT**, from system administration and web development to IT leadership
-- **R&D: Head of IT & Data Protection Officer**, data centre and IT architecture
-- **R&D: Head of DevOps**, web, hardware and software development
-- Built and merged two server rooms into one high-availability data centre during live production
-- Inventory software connected to cash register, accounting and suppliers
-- Native iOS and Android app with offline mode and signed PDF reports
-- **R&D chairman of the board :** development of a non-profit tech institute (2022–2027)
-- **R&D initiator :** development of a technology centrum Presov, Slovakia (2026–2027)
+- **R&D as Head of IT & Data Protection Officer** Data centre and IT architecture
+- **R&D as Head of DevOps** Web, hardware and software development
+- **R&D** Built and merged two server rooms into one high-availability data centre during live production
+- **R&D** Inventory software connected to cash register, accounting and suppliers
+- **R&D** Native iOS and Android app with offline mode and signed PDF reports
+- **R&D as Chairman of the board** Establishment of a non-profit technology institute in Mödling, Austria (2022–2027)
+- **R&D initiator** Development of a technology centrum Presov, Slovakia (2026–2030)
 
 **Languages:** German (C2), English (B2), Slovak (A1)
 
