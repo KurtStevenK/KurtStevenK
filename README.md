@@ -80,7 +80,8 @@ Studied and practised in depth:
 - Inventory software connected to cash register, accounting and suppliers
 - Native iOS and Android app with offline mode and signed PDF reports
 - **R&D chairman of the board :** development of a non-profit tech institute (2022–2027)
-
+- **R&D initiator :** development of a technology centrum Presov, Slovakia (2026–2027)
+- 
 **Languages:** German (C2), English (B2), Slovak (A1)
 
 ---
