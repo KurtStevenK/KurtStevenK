@@ -62,25 +62,25 @@ Private repositories (source not public yet): Lane, Buddy, Beautify, Matrix Comm
 **Security:** IT security, ISMS, PKI and SSL certificate management, zero trust
 **AI:** AI agents, MCP servers, and building tools with AI assistants
 
-## 🎓 AI learning
-
-Studied and practised in depth:
+## 🎓 AI Learning
+Deeply studied and practiced:
 
 - **LLMs & agentic engineering:** building agents, MCP servers and tool use
 - **Context window engineering:** what to put in, what to leave out, and how to keep long work reliable
 - **AI engineering & AI generalist work:** combining models, tools and workflows across a product
 - **Multimodal AI:** image, audio, code, text and video
+- **Completed AI literacy training:** pursuant to Art. 4 of Regulation (EU) 2024/1689 (EU AI Act) and strictly verifies generated outputs prior to deployment 
 
 ## 📈 Career highlights
 
-- **Since 1999 in IT**, from system administration and web development to IT leadership
-- **R&D as Head of IT & Data Protection Officer** Data centre and IT architecture
-- **R&D as Head of DevOps** Web, hardware and software development
-- **R&D** Built and merged two server rooms into one high-availability data centre during live production
-- **R&D** Inventory software connected to cash register, accounting and suppliers
-- **R&D** Native iOS and Android app with offline mode and signed PDF reports
-- **R&D as Chairman of the board** Establishment of a non-profit technology institute in Mödling, Austria (2022–2027)
-- **R&D initiator** Development of a technology centrum Presov, Slovakia (2026–2030)
+- **Since 1999 in IT:**, from system administration and web development to IT leadership
+- **R&D as Head of IT & Data Protection Officer:** Data centre and IT architecture
+- **R&D as Head of DevOps:** Web, hardware and software development
+- **R&D:** Built and merged two server rooms into one high-availability data centre during live production
+- **R&D:** Inventory software connected to cash register, accounting and suppliers
+- **R&D:** Native iOS and Android app with offline mode and signed PDF reports
+- **R&D as Chairman of the board:** Establishment of a non-profit technology institute in Mödling, Austria (2022–2027)
+- **R&D initiator:** Development of a technology centrum Presov, Slovakia (2026–2030)
 
 **Languages:** German (C2), English (B2), Slovak (A1)
 
