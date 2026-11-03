@@ -26,7 +26,9 @@ I build apps, tools and infrastructure, and I run [Kainzmayer](https://kainzmaye
 | **[F1nn](https://cursor-auto-runner-linux.web.app)** | Finds a button on screen and clicks it when it appears, so AI agents keep running (Cursor today, Codex planned) | macOS, Windows, Linux | Free, open source |
 | **[Clay](https://claydesign.web.app)** | Open-source image editor with layers, masks, retouching, filters, a plug-in shop and an MCP interface for AI agents | macOS, Windows, Linux | Free, open source |
 
-🟢 **Beaut1fy** is the first app of the Kainzmayer studio to go live. More apps are on the way. **FeatherShot** was the first app I started with.
+- 🟢 **FeatherShot** First app developed and launched as a foundation project
+- 🟢 **Beaut1fy** First app live on the macOS App Store (iOS version currently under review)
+- 🟢 **Pipeline** Additional apps currently in development
 
 ## 🧰 Open-source projects and tools
 
