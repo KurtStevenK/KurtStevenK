@@ -75,17 +75,12 @@ Deeply studied and practiced:
 
 ## 📈 Career highlights
 
-- **Since 1999 in IT:**, from system administration and web development to IT leadership
-- **R&D as Head of IT & Data Protection Officer:** Data centre and IT architecture
-- **R&D as Head of DevOps:** Web, hardware and software development
-- **R&D:** Built and merged two server rooms into one high-availability data centre during live production
-- **R&D:** Inventory software connected to cash register, accounting and suppliers
-- **R&D:** Native iOS and Android app with offline mode and signed PDF reports
-- **R&D as Chairman of the board:** Establishment of a non-profit technology institute in Mödling, Austria (2022–2027)
-- **R&D initiator:** Development of a technology centrum Presov, Slovakia (2026–2030)
+- **Since 1996 in IT:**, from System Administration and Web Development to App Development and Prototyping
+– already collaborated with clients on more than 1,001 projects
+- >30 years of experience in IT & Web Services (2026)
 
 **Languages:** German (C2), English (B2), Slovak (A1)
 
 ---
 
-🌐 **Full profile, references and contact:** [kainzmayer.xyz](https://kainzmayer.xyz/de/main/) · 📫 **Contact:** via the form on the website
+🌐 **Full profile, references and contact:** [kainzmayer.xyz](https://kainzmayer.xyz/en/main/) · 📫 **Contact:** via the form on the website
