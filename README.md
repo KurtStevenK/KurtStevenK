@@ -58,11 +58,11 @@ Private repositories (source not public yet): Lane, Buddy, Beautify, Matrix Comm
 
 ## 🧑‍💻 Skills
 
-**Languages & frameworks:** Swift, TypeScript, JavaScript, Python, PHP, SQL, PowerShell, HTML/CSS, React, Ionic, Dart
-**Platforms:** Apple (macOS, iOS, watchOS, tvOS), Windows, Linux, Android, Web
-**Infrastructure:** VMware vSphere, Hyper-V, Linux and Windows Server, Active Directory, pfSense, Docker, AWS, Microsoft Azure, DNS, DHCP
-**Security:** IT security, ISMS, PKI and SSL certificate management, zero trust
-**AI:** AI agents, MCP servers, and building tools with AI assistants
+- **Languages & frameworks:** Swift, TypeScript, JavaScript, Python, PHP, SQL, PowerShell, HTML/CSS, React, Ionic, Dart
+- **Platforms:** Apple (macOS, iOS, watchOS, tvOS), Windows, Linux, Android, Web
+- **Infrastructure:** Google Cloud, Oracle Cloud, VMware vSphere, Hyper-V, Linux and Windows Server, Active Directory, pfSense, Docker, AWS, Microsoft Azure, DNS, DHCP
+- **Security:** IT security, ISMS, PKI and SSL certificate management, zero trust
+- **AI:** AI agents, MCP servers, and building tools with AI assistants
 
 ## 🎓 AI Learning
 Deeply studied and practiced:
