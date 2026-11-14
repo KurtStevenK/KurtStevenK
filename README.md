@@ -75,9 +75,9 @@ Deeply studied and practiced:
 
 ## 📈 Career highlights
 
-- **Since 1996 in IT:**, from System Administration and Web Development to App Development and Prototyping
-– already collaborated with clients on more than 1,001 projects
-- >30 years of experience in IT & Web Services (2026)
+- **Since 1996 in IT**, from System Administration and Web Development to App Development and Prototyping
+- **Collaborated** with clients on more than 1,001 projects
+- **>30 years** of experience in IT & Web Services (2026)
 
 **Languages:** German (C2), English (B2), Slovak (A1)
 
